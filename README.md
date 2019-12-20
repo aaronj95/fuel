@@ -15,10 +15,12 @@ Clustering tests were conducted in ***Clustering.ipynb***
 ### Conclusion
 The clustering algorithms have inferred 13 to 15 unique clusters respectively. Hence, there may be approximately 13 to 15 distinctive number of formulations present in the dataset.
 
-K-means clustering
+K-means clustering 15 distinctive formulations
+
 ![Kmeans clustering](1_Kmeans_cluster_AJ.png)
 
-DBSCAN Clustering
+DBSCAN Clustering 13 distinctive formulations
+
 ![DBSCAN Clustering](1_DBSCAN_cluster_AJ.png)
 
 ### Environment Setup
