@@ -15,6 +15,12 @@ Clustering tests were conducted in ***Clustering.ipynb***
 ### Conclusion
 The clustering algorithms have inferred 13 to 15 unique clusters respectively. Hence, there may be approximately 13 to 15 distinctive number of formulations present in the dataset.
 
+K-means clustering
+![Kmeans clustering](1_Kmeans_cluster_AJ.png)
+
+DBSCAN Clustering
+![DBSCAN Clustering](1_DBSCAN_cluster_AJ.png)
+
 ### Environment Setup
 1. Initialize a cloud instance with Linux Ubuntu OS & 4gb of RAM
 2. SSH into cloud instance via terminal with key pair authorization
